@@ -1,0 +1,76 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical"
+    android:padding="16dp"
+    android:background="@drawable/bg"
+    tools:context=".MainActivity" >
+
+    <TextView
+        android:id="@+id/textView8"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content" />
+
+    <TextView
+        android:id="@+id/textView7"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_gravity="center"
+        android:fontFamily="@font/abril_fatface"
+        android:text="My Modules"
+        android:textColor="#DFDFDF"
+        android:textSize="34sp" />
+
+    <TextView
+        android:id="@+id/textViewC203"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_gravity="center"
+        android:fontFamily="@font/raleway"
+        android:text="C203 Web Appln Development in php"
+        android:textColor="#DFDFDF"
+        android:textSize="18sp" />
+
+    <TextView
+        android:id="@+id/textViewC206"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_gravity="center"
+        android:fontFamily="@font/raleway"
+        android:text="C206 Software Development Process"
+        android:textColor="#DFDFDF"
+        android:textSize="18sp" />
+
+    <TextView
+        android:id="@+id/textViewC218"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_gravity="center"
+        android:fontFamily="@font/raleway"
+        android:text="C218 UI/UX Design for Apps"
+        android:textColor="#DFDFDF"
+        android:textSize="18sp" />
+
+    <TextView
+        android:id="@+id/textViewC235"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_gravity="center"
+        android:fontFamily="@font/raleway"
+        android:text="C235 IT Security and Management"
+        android:textColor="#DFDFDF"
+        android:textSize="18sp" />
+
+    <TextView
+        android:id="@+id/textViewC346"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_gravity="center"
+        android:fontFamily="@font/raleway"
+        android:text="C346 Mobile App Development"
+        android:textColor="#DFDFDF"
+        android:textSize="18sp" />
+</LinearLayout>
